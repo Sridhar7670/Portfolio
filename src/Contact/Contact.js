@@ -7,7 +7,7 @@ import './Contact.css';
 
 // Web3Forms access keys are public by design; the env var lets deployments override it.
 const WEB3FORMS_ACCESS_KEY =
-  process.env.REACT_APP_WEB3FORMS_KEY || '54c8ded6-2d45-4771-94af-d2bcb502af33';
+  process.env.REACT_APP_WEB3FORMS_KEY ;
 
 const STATUS_CLEAR_MS = 5000;
 
