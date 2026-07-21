@@ -1,4 +1,4 @@
-# 🌟 My React Portfolio
+# My React Portfolio
 
 My personal portfolio — a single-page React site covering who I am, the tools
 I work with, and the projects I have built.
@@ -7,17 +7,17 @@ I work with, and the projects I have built.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Features](#-features)
-- [Technologies Used](#️-technologies-used)
-- [Project Structure](#-project-structure)
-- [Setup Instructions](#-setup-instructions)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Setup Instructions](#setup-instructions)
 
 ---
 
-## 📝 Project Overview
+## Project Overview
 
 A single-page site: every section lives on one page and the navbar scrolls to
 them rather than routing between pages. It is built with Create React App and
@@ -25,7 +25,7 @@ plain CSS — no UI framework and no CSS-in-JS.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Home** — introduction, a rotating tagline, and links to my resume and contact form.
 - **About** — background, education and why I would be a good hire.
@@ -42,7 +42,7 @@ plain CSS — no UI framework and no CSS-in-JS.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React 19** — functional components and hooks.
 - **Create React App** (`react-scripts`) — build tooling.
@@ -56,7 +56,7 @@ plain CSS — no UI framework and no CSS-in-JS.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -71,7 +71,7 @@ src/
 
 ---
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 ```bash
 git clone https://github.com/Sridhar7670/react.git
