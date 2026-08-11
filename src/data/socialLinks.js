@@ -1,9 +1,7 @@
 import {
-  FaFacebook,
   FaGithub,
   FaInstagram,
   FaLinkedinIn,
-  FaTwitter,
 } from 'react-icons/fa6';
 
 /**
@@ -23,6 +21,4 @@ export const SOCIAL_LINKS = [
     Icon: FaLinkedinIn,
   },
   { label: 'Instagram', href: 'https://www.instagram.com/sridhar.rdy/', Icon: FaInstagram },
-  { label: 'Twitter / X', href: 'https://x.com/Sridhar67956954', Icon: FaTwitter },
-  { label: 'Facebook', href: 'https://www.facebook.com/sridhar.nani.129', Icon: FaFacebook },
 ];

@@ -5,7 +5,6 @@ import About from "./About/About";
 import Skills from "./Skills/Skills";
 import Projects from "./Projects/projects";
 import ContactForm from "./Contact/Contact";
-import Footer from "./Footer/Footer";
 
 export const App = () => {
   return (
@@ -19,7 +18,6 @@ export const App = () => {
         <Projects />
         <ContactForm />
       </main>
-      <Footer />
     </>
   );
 };
