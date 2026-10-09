@@ -7,6 +7,7 @@ import ecommerce from '../components/images/ecommerce.svg';
 import moviesApp from '../components/images/movies_app.jpg';
 import portfolio from '../components/images/portfolio.jpg';
 import employeeManagement from '../components/images/employee_managment_system.png';
+import boxBreathing from '../components/images/box_breathing.jpg';
 
 const PROJECTS = [
   {
@@ -40,6 +41,15 @@ const PROJECTS = [
     liveUrl: 'https://sridhars-portfolio.netlify.app/',
   },
   
+  {
+    title: 'Box Breathing App',
+    description:
+      'Guided box-breathing timer with an animated ring, audio cues and selectable 3-3-3-3, 4-4-4-4 and 5-5-5-5 patterns. Next.js front end with a NestJS API, in a pnpm monorepo',
+    tech: ['Next.js', 'NestJS', 'Tailwind CSS', 'Netlify'],
+    thumbnail: boxBreathing,
+    codeUrl: 'https://github.com/Sridhar7670/BoxBreathing-',
+    liveUrl: 'https://box-breathing-app1.netlify.app/',
+  },
   {
     title: 'Employee Management App',
     description: 'Add data into the input fields and perform operations on them',
